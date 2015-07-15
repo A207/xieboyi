@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="weight_thin1">轻体重，健康体重指数BMI=22，建议您增加营养。</string>
+
+    <string name="weight_perfect">健康体重，健康体重指数BMI=22，建议您继续保持良好的生活习惯。</string>
+    <string name="weight_fat1">超重，健康体重指数BMI=22，建议您多做一些户外运动，注意一下饮食习惯。</string>
+    <string name="weight_fat4">肥胖，健康体重指数BMI=22，肥胖会导致各种疾病，建议您立刻开始减肥。</string>
+</resources>
